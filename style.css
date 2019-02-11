@@ -1,0 +1,26 @@
+.Division{
+    
+    width: 200px;
+    height: 100px;
+    text-align: left;
+
+   
+}
+div.a {
+  margin: 25px  60px 50px 75px;
+}
+p.a {
+  font-style: italic;
+}
+p.italic {
+  font-style: italic;
+}
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	font-size: -20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
