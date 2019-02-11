@@ -9,6 +9,14 @@
 div.a {
   margin: 25px  60px 50px 75px;
 }
+div.b{ 
+	
+  text-align: center;
+}
+.list-inline
+{
+	 color : grey ;
+}
 p.a {
   font-style: italic;
 }
