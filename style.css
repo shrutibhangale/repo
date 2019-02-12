@@ -13,6 +13,15 @@ div.b{
 	
   text-align: center;
 }
+div.c
+{
+	 background-image: url("/home/webwerks/project1/images/inner_page_banner/who_we_help.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+#footer img{
+    width: 100%;
+}
 .list-inline
 {
 	 color : grey ;
@@ -32,3 +41,80 @@ ul#horizontal-list {
 	ul#horizontal-list li {
 		display: inline;
 	}
+	.contain {
+  position: relative;
+  width: 100%;
+  
+}
+
+.contain{
+  position: relative;
+  width: 100%;
+  
+}
+
+.contain img {
+  width: 100%;
+  height: auto;
+}
+
+.btn {
+   position: relative;
+     top: 50%;
+   
+   float: left;
+    padding: 12px 24px;
+
+  background-color: #CCFF00;
+  border: none;
+  cursor: pointer;
+}
+.btn1 {
+   position: relative;
+     top: 50%;
+   
+   float: center;
+    padding: 12px 24px;
+
+  background-color: #CCFF00;
+  border: none;
+  cursor: pointer;
+}
+.contain .btnn {
+   position: relative;
+     top: 50%;
+   left: 50%;
+   float: left;
+    padding: 12px 24px;
+
+  background-color: #CCFF00;
+  border: none;
+  cursor: pointer;
+}
+
+.contain .btn:hover {
+  background-color: black;
+}
+.contain .btnn:hover {
+  background-color: black;
+}
+ul {
+  list-style-image: url('/home/webwerks/project1/images/arrow1.png');
+}
+.container {
+  display: flex;
+  text-align: center;
+}
+
+.left-half {
+  background-color: white;
+  flex: 1;
+  padding: 1rem;
+}
+
+.right-half {
+  background-color: white;
+  flex: 1;
+  padding: 1rem;
+}
+
